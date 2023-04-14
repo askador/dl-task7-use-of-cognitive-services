@@ -1,0 +1,6 @@
+.venv/
+audios/
+__pycache__/
+
+.env
+dltask7-97dbcdde8327.json
