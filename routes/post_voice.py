@@ -31,5 +31,5 @@ def voice():
         "text": transcript
     })
     
-    return jsonify({'message': 'Done'}), 200
+    return jsonify({'transcript': transcript}), 200
     
